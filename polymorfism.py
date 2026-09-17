@@ -14,7 +14,7 @@ class Dog(Djur):
 
 class Human(Djur):
     def låta(self):
-        print("Hejsan")
+        print("Hejsan svejsan")
 
 
 players = [
