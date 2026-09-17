@@ -17,11 +17,11 @@ class Human(Djur):
         print("Hejsan svejsan")
 
 
-players = [
+djurlista = [
     Cat(),
     Dog(),
     Human()
 ]
 
-for djur in players:
+for djur in djurlista:
     djur.låta()
